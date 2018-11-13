@@ -52,3 +52,11 @@ body {
     justify-content: space-between;
     margin: 0 auto;
 }
+
+#time {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    width: 60px;
+    font-size: 1rem;
+}
